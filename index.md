@@ -1,6 +1,4 @@
 ---
-title: Gitup tutorial
+title: Welcome to my blog
 ---
-
-# Thanks for coming
 
